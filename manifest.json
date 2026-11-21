@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "release": "",
+  "notes": [],
+  "maintenance": {
+    "enabled": false,
+    "message": "",
+    "until": ""
+  },
+  "launcher": {
+    "version": "0.0.0",
+    "url": "",
+    "sha256": "",
+    "notes": "",
+    "mandatory": true
+  },
+  "minecraft": {
+    "version": "26.3"
+  },
+  "neoforge": {
+    "version": "",
+    "installerUrl": "",
+    "sha256": ""
+  },
+  "java": {
+    "major": 21,
+    "url": "",
+    "sha256": ""
+  },
+  "mods": []
+}
