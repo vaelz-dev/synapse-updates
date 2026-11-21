@@ -31,10 +31,10 @@
              },
     "mods":  [
                  {
-                     "file":  "synapse_menu-1.2.0.jar",
-                     "url":  "https://raw.githubusercontent.com/vaelz-dev/synapse-updates/main/mods/synapse_menu-1.2.0.jar",
-                     "sha256":  "9d70ea28be8bfb279e75895496b0696f029205f4893c3703aced5934c87a1f6f",
-                     "size":  7498060
+                     "file":  "synapse_menu-1.2.1.jar",
+                     "url":  "https://raw.githubusercontent.com/vaelz-dev/synapse-updates/main/mods/synapse_menu-1.2.1.jar",
+                     "sha256":  "61d6e087b4c0b8d7c44f6d3817fe40a9ee8514e2aaeff3e6386a1ed629c3b1ff",
+                     "size":  7498061
                  }
              ]
 }
