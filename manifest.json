@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "release": "",
-  "notes": [],
+  "release": "1.0.0",
+  "notes": ["Premiere version du launcher SYNAPSE"],
   "maintenance": {
     "enabled": false,
     "message": "",
     "until": ""
   },
   "launcher": {
-    "version": "1.0.0",
+    "version": "0.0.0",
     "url": "",
     "sha256": "",
     "notes": "",
@@ -18,7 +18,7 @@
     "version": "26.3"
   },
   "neoforge": {
-    "version": "",
+    "version": "auto",
     "installerUrl": "",
     "sha256": ""
   },
