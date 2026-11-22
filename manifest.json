@@ -37,10 +37,10 @@
                      "size":  9860647
                  },
                  {
-                     "file":  "synapse_mist-1.1.0.jar",
-                     "url":  "https://raw.githubusercontent.com/vaelz-dev/synapse-updates/main/mods/synapse_mist-1.1.0.jar",
-                     "sha256":  "5cbf5b68fd6ebc5c81c035439ee1f727a9d60f60f4793791e5e1e4a19cbb9325",
-                     "size":  6241
+                     "file":  "synapse_mist-1.1.1.jar",
+                     "url":  "https://raw.githubusercontent.com/vaelz-dev/synapse-updates/main/mods/synapse_mist-1.1.1.jar",
+                     "sha256":  "4e5dd68c53a82e39ee3e86fa1d6263e575547202b903b08257f1ab1def5a6989",
+                     "size":  6258
                  }
              ]
 }
