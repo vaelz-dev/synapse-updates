@@ -35,6 +35,12 @@
                      "url":  "https://raw.githubusercontent.com/vaelz-dev/synapse-updates/main/mods/synapse_menu-1.4.0.jar",
                      "sha256":  "19d88f050fc73f009b37b6489d4c587b6e195dbcde83de2725e2138537c96604",
                      "size":  9860647
+                 },
+                 {
+                     "file":  "synapse_mist-1.0.0.jar",
+                     "url":  "https://raw.githubusercontent.com/vaelz-dev/synapse-updates/main/mods/synapse_mist-1.0.0.jar",
+                     "sha256":  "689c6895276b0c675df850cc4336a28202fa49d340437f8f9c214c28ae3973e0",
+                     "size":  3597
                  }
              ]
 }
