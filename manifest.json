@@ -37,10 +37,16 @@
                      "size":  9860647
                  },
                  {
-                     "file":  "synapse_mist-1.1.1.jar",
-                     "url":  "https://raw.githubusercontent.com/vaelz-dev/synapse-updates/main/mods/synapse_mist-1.1.1.jar",
-                     "sha256":  "4e5dd68c53a82e39ee3e86fa1d6263e575547202b903b08257f1ab1def5a6989",
-                     "size":  6258
+                     "file":  "synapse_mist-2.1.1.jar",
+                     "url":  "https://raw.githubusercontent.com/vaelz-dev/synapse-updates/main/mods/synapse_mist-2.1.1.jar",
+                     "sha256":  "2979776eeffaea7cee614586f30501158f41aa4c5ea33d61a2048cccbcd687f0",
+                     "size":  12158
+                 },
+                 {
+                     "file":  "zombiecraft-1.0.0.jar",
+                     "url":  "https://raw.githubusercontent.com/vaelz-dev/synapse-updates/main/mods/zombiecraft-1.0.0.jar",
+                     "sha256":  "4725608502e93b5a7eedc1235cdae722cf0ba3133944c377d1cf491f64ab7f0b",
+                     "size":  5890788
                  }
              ]
 }
